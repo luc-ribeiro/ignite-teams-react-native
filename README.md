@@ -6,19 +6,22 @@
 Ignite Teams
 </h1>
 
-## 📄 Projeto
-Aplicação mobile desenvolvida durante o curso de React Native da Rocketseat, usando boas práticas do desenvolvimento mobile. 
-Ela consiste em criar turmas e adicionar jogadores em equipe A ou equipe B. Os dados são armazenados no próprio dispositivo utilizando AsyncStorage e a construção das telas foram realizadas utilizando Styled-Components.
+<div align="right">
+    Clique <a href="https://github.com/luc-ribeiro/ignite-teams-react-native/blob/main/README-PTBR.md">aqui</a> para ver a versão em Português.
+</div>
 
-## 📝 Conceitos
+## 📄 Project
+App that consists of creating teams and adding players to Team A or Team B. Data is stored on the device itself using AsyncStorage, and the screen construction was done using Styled-Components.
+
+## 📝 Concepts
 
 - **Path Mapping**
 - **Stack Navigator**
 - **AsyncStorage**
-- **Exceções customizadas**
+- **Custom Exceptions**
 - **Theme Tokens**
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 - **React Native**
 - **TypeScript**
@@ -29,17 +32,18 @@ Ela consiste em criar turmas e adicionar jogadores em equipe A ou equipe B. Os d
 ## 🔖 Layout
 ### [Ignite Teams - Figma](https://www.figma.com/file/qL7TqYZjsBdMDFMGx6rDA2/Ignite-Teams?type=design&node-id=47-273&mode=design)
 
-## 🚀 Executando o projeto
+## 🚀 Running the project
 
 ```bash
-1. Clone este repositório em sua máquina
+1. Clone this repository to your machine
 $ git clone https://github.com/luc-ribeiro/ignite-teams-react-native.git
 
-2. Instale as dependências
+2. Install dependencies
 $ npm i
 
-3. Rode o projeto através do comando:
+3. Run the project with the command:
 $ npm start
 
-- Com o Expo Go aberto em seu dispositivo, escaneie o QR code no terminal
-OBS: É preciso ter o Expo Go instalado em seu dispositivo móvel
+- With Expo Go open on your device, scan the QR code in the terminal
+Note: Expo Go must be installed on your mobile device
+```
